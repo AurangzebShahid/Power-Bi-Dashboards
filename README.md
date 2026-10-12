@@ -18,7 +18,7 @@ The dashboard gives the data management team a weekly view of whether data colle
 | **Follow-up (NFU / MNFU)** | Pending, completed and lost-to-follow-up visits, overdue windows, by cluster |
 | **Timeliness** | Delay between delivery and form submission |
 
-[Overview](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Overview.png)
+![Overview](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Overview.png)
 ## Design
 
 - **Four-arm-per-side cluster design**: clusters are grouped by study arm so intervention and control sites can be compared side by side.
