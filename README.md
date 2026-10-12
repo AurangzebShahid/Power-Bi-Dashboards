@@ -2,7 +2,8 @@
 
 A Power BI dashboard used to monitor data quality and study progress in **ACS-IR**, a WHO-funded implementation research trial in Pakistan evaluating antenatal corticosteroid use for preterm birth. It sits at the end of a pipeline: field data → Stata cleaning and QC → analysis dataset → this dashboard.
 
-> **No study data is included in this repository.** It contains the report and model definition only. See [Data](#data).
+> **Only a small synthetic sample is included for demonstration. No real study data is in this repository.** See See [Data]([(https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Full_database_analysis_P2_LONG_M_PK.xlsx]).
+).
 
 ## What it does
 
