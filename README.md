@@ -2,16 +2,15 @@
 
 A Power BI dashboard used to monitor data quality and study progress in **ACS-IR**, a WHO-funded implementation research trial in Pakistan evaluating antenatal corticosteroid use for preterm birth. It sits at the end of a pipeline: field data → Stata cleaning and QC → analysis dataset → this dashboard.
 
-> **Only a small synthetic sample is included for demonstration. No real study data is in this repository.** See See [Data]([(https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Full_database_analysis_P2_LONG_M_PK.xlsx]).
-).
-
+> **Only a small synthetic sample is included for demonstration. No real study data is in this repository.** See [Data]((https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Full_database_analysis_P2_LONG_M_PK.xlsx).
+> 
 ## What it does
 
 The dashboard gives the data management team a weekly view of whether data collection is on track and whether the records look right, by cluster, facility and month.
 
 | Area | Examples of what is monitored |
 |---|---|
-| **Overview** | Deliveries recorded, form completion, enrolment by cluster and study arm, month-on-month trend |
+| **Overview** | Deliveries recorded, form completion, enrolment by cluster and study arm, month-on-month trend |[Overview](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Overview.png)
 | **Delivery form (BDF) quality** | Mode of delivery, gestational age assessment, birthweight, ANC booking status, completeness and out-of-range values |
 | **Gestational age and ultrasound** | Earliest-USG coverage, USG timing vs admission, provider GA vs USG GA agreement (±7 days), preterm classification |
 | **Birthweight** | Weight categories, provider-preterm vs weight-preterm agreement, missed preterm (<2,000 g) |
