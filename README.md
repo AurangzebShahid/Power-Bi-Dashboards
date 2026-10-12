@@ -10,7 +10,7 @@ The dashboard gives the data management team a weekly view of whether data colle
 
 | Area | Examples of what is monitored |
 |---|---|
-| **Overview** | Deliveries recorded, form completion, enrolment by cluster and study arm, month-on-month trend |[Overview](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Overview.png)
+| **Overview** | Deliveries recorded, form completion, enrolment by cluster and study arm, month-on-month trend |
 | **Delivery form (BDF) quality** | Mode of delivery, gestational age assessment, birthweight, ANC booking status, completeness and out-of-range values |
 | **Gestational age and ultrasound** | Earliest-USG coverage, USG timing vs admission, provider GA vs USG GA agreement (±7 days), preterm classification |
 | **Birthweight** | Weight categories, provider-preterm vs weight-preterm agreement, missed preterm (<2,000 g) |
@@ -18,6 +18,7 @@ The dashboard gives the data management team a weekly view of whether data colle
 | **Follow-up (NFU / MNFU)** | Pending, completed and lost-to-follow-up visits, overdue windows, by cluster |
 | **Timeliness** | Delay between delivery and form submission |
 
+[Overview](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Overview.png)
 ## Design
 
 - **Four-arm-per-side cluster design**: clusters are grouped by study arm so intervention and control sites can be compared side by side.
