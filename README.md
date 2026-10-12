@@ -26,7 +26,7 @@ The dashboard gives the data management team a weekly view of whether data colle
 
 
 ** Geography
-![Location]([https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Timeline.png](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Geography.png)
+![Location](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Geography.png)
 
 ** Geography
 ![Total Deiveries](https://github.com/AurangzebShahid/Power-Bi-Dashboards/blob/main/Screenshots/Total%20Deliveries.png)
